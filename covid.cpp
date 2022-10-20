@@ -28,4 +28,3 @@ int main() {
 	cout << "Servicio de salud" << endl;
 	return 0;
 }
-
